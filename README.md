@@ -1,7 +1,7 @@
 We will never ask for your private key! Do not fall for scams!
 
 Elsecoins  (ELSE)
-Official Website: https://elsecoins.com
+Official Website: https://www.elsecoins.com
 
 Official Pool: http://pool.elsecoins.com
 
@@ -9,16 +9,16 @@ Block Explorer: https://explorer.elsecoins.com
 
 Github: https://github.com/elsecoins
 
-Wallets: https://elsecoins.com/wallets
+Wallets: https://www.elsecoins.com/wallets
 
 Paper Wallet: https://paperwallet.elsecoins.com
 
 Support: https://support.elsecoins.com/
 
-Whitepaper: https://elsecoins.com/whitepaper.pdf
+Whitepaper: https://www.elsecoins.com/whitepaper.pdf
 
-Blogs: http://blog.elsecoins.com/
-forums: http://forum.elsecoins.com/
+Blogs: https://www.blog.elsecoins.com/
+forums: http://www.forum.elsecoins.com/
 
 Social Media:
 
@@ -37,7 +37,7 @@ Twitter: https://twitter.com/elsecoins
 Youtube: https://www.youtube.com/channel/UCjw0UWGk0gjJfD3QjX2pM9w
 Exchanges:
 
-Elsecointrader: http://elsecointrader.com/
+Elsecointrader: https://www.elsecointrader.com/
  
 Exchanges (Coming Soon):
 
